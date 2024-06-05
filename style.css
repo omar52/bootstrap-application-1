@@ -1,0 +1,11 @@
+:root{
+    --main-color:#fbf5e5;
+    --secondary-color:# ;
+    --icon-color:rgb(82, 33, 146);
+    --icon-bg-color:#212529;
+
+}
+
+#intro  a[role="button"]{
+    color: var(--secondary-color) !important;
+}
